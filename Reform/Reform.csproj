@@ -2,6 +2,14 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Title>Reform</Title>
+        <Authors>Tyler Davis</Authors>
+        <Description>A basic package for turning one object into another (Reforming)</Description>
+        <PackageProjectUrl>https://github.com/Tylertron1998/reform</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Tylertron1998/reform/LICENCE.md</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Tylertron1998/reform</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
